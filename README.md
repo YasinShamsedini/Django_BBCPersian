@@ -27,7 +27,7 @@ A modern news website built with Django, designed for dynamic content delivery a
 
 ## 🌐 Demo Images
 
-![Category]([screenshots/homepage.png](https://github.com/YasinShamsedini/Django_BBCPersian/blob/main/Sample%20Category.png)
+![Category]([screenshots/homepage.png](Sample Category.png)
 
 ---
 
