@@ -27,7 +27,10 @@ A modern news website built with Django, designed for dynamic content delivery a
 
 ## 🌐 Demo Images
 
-![Category]([screenshots/homepage.png](Sample Category.png)
+![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/homepage.png)
+
 
 ---
 
